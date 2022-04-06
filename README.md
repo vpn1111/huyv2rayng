@@ -1,7 +1,5 @@
 
-⭕ click vào đây để tạo v2ray
-   - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
-
+⭕ click vào đây để tạo v2ray  
 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/huyv2ray/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
