@@ -1,28 +1,26 @@
 
-⭕ ᴀꜰᴛᴇʀ ꜰᴏʀᴋᴇᴅ ᴄʟɪᴄᴋ ᴛʜɪꜱ.
+⭕ click vào đây để tạo v2ray
    - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
 
 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/huyv2ray/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
-   - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
-   - 🔻ᴛʜᴇ ʀᴇɢɪᴏɴ ʏᴏᴜ ꜱᴇʟᴇᴄᴛᴇᴅ ɪꜱ ʏᴏᴜʀ ᴠ2ʀᴀʏ ᴀᴄᴄᴏᴜɴᴛ ꜱᴇᴠᴇʀ.
 
-⭕ ɢᴇɴᴇʀᴀᴛᴇ ᴠ2ʀᴀʏ ᴜᴜɪᴅ ᴜꜱɪɴɢ ᴛʜɪꜱ ᴡᴇʙꜱɪᴛᴇ.https://www.uuidgenerator.net/
+
+⭕thay đổi ID Tại web.https://www.uuidgenerator.net/
 
 ______
 # ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ
 
-- ᴅᴇꜰᴀᴜʟᴛ ᴘʀᴏᴛᴏᴄᴏʟ : ᴠʟᴇꜱꜱ
+- giao thức VLESS : ᴠʟᴇꜱꜱ
 
-- ᴜᴜɪᴅ: *ʏᴏᴜ ᴀᴅᴅᴇᴅ ᴜᴜɪᴅ*
+- ᴜᴜɪᴅ: *ID mà bạn đã tạo*
 
-- ᴀᴅᴅʀᴇꜱꜱ: ʏᴏᴜʀ ᴀᴘᴘɴᴀᴍᴇ.ʜᴇʀᴏᴋᴜᴀᴘᴘ.ᴄᴏᴍ
+- ᴀᴅᴅʀᴇꜱꜱ: tên trang web mình đã tạo VD:ᴀᴘᴘɴᴀᴍᴇ.ʜᴇʀᴏᴋᴜᴀᴘᴘ.ᴄᴏᴍ
 
 - ᴘᴏʀᴛ: 443
 
-- ᴘᴀᴛʜ: ᴋᴇᴇᴘ ᴛʜɪꜱ ᴇᴍᴘᴛʏ ᴏʀ /
+- ᴘᴀᴛʜ: /
 
 - ɴᴇᴛᴡᴏʀᴋ: ᴡꜱ
 - 4g free never
